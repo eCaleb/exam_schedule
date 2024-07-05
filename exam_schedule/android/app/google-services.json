@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414860857847",
+    "project_id": "exam-bba94",
+    "storage_bucket": "exam-bba94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414860857847:android:81cec9f19020a73c7e1ef2",
+        "android_client_info": {
+          "package_name": "com.example.exam_schedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMdv8UIVshaP5MRhBgQMtqP2omr7qBHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
